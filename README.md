@@ -7,7 +7,7 @@ Light tooltip directive for Vue 3.
 npm install @floating-ui/dom
 ```
 
-[Documentation and examples](https://vue-wind.netlify.app/documentation/tooltip)
+[Documentation and examples](https://vue-litewind.netlify.app/documentation/tooltip)
 
 ### Examples
 
